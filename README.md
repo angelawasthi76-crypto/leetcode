@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0035-search-insert-position) |
 | [0912-sort-an-array](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0912-sort-an-array) |
 | [1089-duplicate-zeros](https://github.com/angelawasthi76-crypto/leetcode/tree/master/1089-duplicate-zeros) |
 ## Two Pointers
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0912-sort-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
