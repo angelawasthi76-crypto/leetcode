@@ -1,5 +1,27 @@
 class Solution {
+
+    public double pow(double x,int n ){
+
+        if(n==0)return 1;
+
+        double half =pow(x,n/2);
+
+        if(n%2==0){
+            return half*half;
+        }
+        else{
+            return x*half*half;
+        }
+    }
+
     public double myPow(double x, int n) {
-     return Math.pow(x,(double)n);   
+        
+        long N=n;
+        if(n<0){
+            x=1/x;
+            n=-n;
+        }
+
+        return pow(x,n);
     }
 }
