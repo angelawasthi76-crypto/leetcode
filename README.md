@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/angelawasthi76-crypto/leetcode/tree/master/1922-count-good-numbers) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/angelawasthi76-crypto/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
 | ------- |
