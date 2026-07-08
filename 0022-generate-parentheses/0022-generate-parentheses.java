@@ -2,7 +2,7 @@ class Solution {
 
     public static void generate(int open ,int close, int n, StringBuilder sb , List<String>ans){
 
-        if (sb.length()==2*n){
+        if (open == n && close == n){       //sb.length()==2*n
             ans.add(sb.toString());
             return;
         }
@@ -22,9 +22,7 @@ class Solution {
     public List<String> generateParenthesis(int n) {
         List <String>ans =new ArrayList<>();
 
-        StringBuilder sb = new StringBuilder();
-
-        generate(0,0,n,sb,ans);
+        generate(0,0,n,new StringBuilder(),ans);
         return ans;
     }
 }
