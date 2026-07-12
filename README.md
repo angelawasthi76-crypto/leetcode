@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0039-combination-sum) |
 | [0912-sort-an-array](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0912-sort-an-array) |
 | [1089-duplicate-zeros](https://github.com/angelawasthi76-crypto/leetcode/tree/master/1089-duplicate-zeros) |
+| [1331-rank-transform-of-an-array](https://github.com/angelawasthi76-crypto/leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0912-sort-an-array) |
+| [1331-rank-transform-of-an-array](https://github.com/angelawasthi76-crypto/leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/angelawasthi76-crypto/leetcode/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
