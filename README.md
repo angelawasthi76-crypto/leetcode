@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0040-combination-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0216-combination-sum-iii) |
 | [0912-sort-an-array](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0912-sort-an-array) |
 | [1089-duplicate-zeros](https://github.com/angelawasthi76-crypto/leetcode/tree/master/1089-duplicate-zeros) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0040-combination-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0216-combination-sum-iii) |
 ## Number Theory
 |  |
