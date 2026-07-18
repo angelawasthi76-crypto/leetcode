@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0216-combination-sum-iii) |
 | [0912-sort-an-array](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0912-sort-an-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0079-word-search](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0079-word-search) |
 ## Math
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0216-combination-sum-iii) |
 ## Number Theory
@@ -107,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0090-subsets-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
