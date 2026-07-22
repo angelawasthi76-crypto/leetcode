@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0216-combination-sum-iii) |
 | [0704-binary-search](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0912-sort-an-array](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0912-sort-an-array) |
 | [1089-duplicate-zeros](https://github.com/angelawasthi76-crypto/leetcode/tree/master/1089-duplicate-zeros) |
 | [1331-rank-transform-of-an-array](https://github.com/angelawasthi76-crypto/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2540-minimum-common-value](https://github.com/angelawasthi76-crypto/leetcode/tree/master/2540-minimum-common-value) |
 ## String
 |  |
