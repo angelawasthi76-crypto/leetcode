@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2540-minimum-common-value](https://github.com/angelawasthi76-crypto/leetcode/tree/master/2540-minimum-common-value) |
@@ -135,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0079-word-search) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
