@@ -1,17 +1,10 @@
 class Solution {
     public boolean isThree(int n) {
-        int cnt=0;
-        for(int i=1;i<=n;i++){
-            if (n%i ==0){
-                cnt++;
-            }
-            if(cnt==4){
-                return false;
-            }
+        int ctr = 2;
+        for(int i=2; i<n; i++){
+            if(n%i == 0)ctr++;
+            if(ctr>3)break;
         }
-        if(cnt==3){
-            return true;
-        }
-        return false;
+        return ctr==3;
     }
 }
