@@ -79,10 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [1903-largest-odd-number-in-string](https://github.com/angelawasthi76-crypto/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Math
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0050-powx-n) |
+| [1903-largest-odd-number-in-string](https://github.com/angelawasthi76-crypto/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/angelawasthi76-crypto/leetcode/tree/master/1922-count-good-numbers) |
 | [1952-three-divisors](https://github.com/angelawasthi76-crypto/leetcode/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/angelawasthi76-crypto/leetcode/tree/master/2413-smallest-even-multiple) |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/angelawasthi76-crypto/leetcode/tree/master/1952-three-divisors) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/angelawasthi76-crypto/leetcode/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
