@@ -1,16 +1,20 @@
 class Solution {
     public String reverseWords(String s) {
-        String []s1 = s.trim().split("\\s+");
 
-        int l =0;
-        int r= s1.length-1;
-        while(l<r){
-            String temp =s1[l];
-            s1[l]=s1[r];
-            s1[r]=temp;
-            l++;
-            r--;
+        StringBuilder ans = new StringBuilder();        
+        int i=s.length()-1;
+
+        while(i>=0){
+            while(i>=0 && s.charAt(i)==' '){
+                i--;
+            }
+            int j =i;
+            while(i>=0 && s.charAt(i)!=' ' ){
+                i--;
+            }
+            ans.append(s.substring(i+1,j+1));
+            ans.append(" ");
         }
-        return String.join(" ",s1);
+        return ans.toString().trim();
     }
 }
