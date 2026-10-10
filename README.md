@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1021-remove-outermost-parentheses](https://github.com/angelawasthi76-crypto/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/angelawasthi76-crypto/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Math
 |  |
@@ -167,4 +168,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/angelawasthi76-crypto/leetcode/tree/master/1903-largest-odd-number-in-string) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/angelawasthi76-crypto/leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/angelawasthi76-crypto/leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
