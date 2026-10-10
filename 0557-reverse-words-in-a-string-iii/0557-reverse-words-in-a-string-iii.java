@@ -1,17 +1,25 @@
 class Solution {
-    public String rev(String s){
-        String reverse ="";
-        for(int i=s.length()-1;i>=0;i--){
-            reverse=reverse +s.charAt(i);
-        }
-        return reverse;
-    }
     public String reverseWords(String s) {
-        String []words  =s.trim().split("\\s+");
+        char[]arr = s.toCharArray();
 
-        for(int i=0;i<words.length;i++){
-           words[i] =rev(words[i]);
-        } 
-        return String.join(" ",words);
+        int r=0;
+        int l=0;
+
+        while(r<arr.length){
+            while(r<arr.length && arr[r]!=' '){
+                r++;
+            }
+            int right =r-1;
+            while(l<right){
+                char temp =arr[l];
+                arr[l]=arr[right];
+                arr[right]=temp;
+                l++;
+                right--;
+            }
+            r++;
+            l=r;
+        }
+        return new String(arr);
     }
 }
