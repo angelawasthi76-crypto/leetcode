@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0242-valid-anagram) |
 | [0905-sort-array-by-parity](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/angelawasthi76-crypto/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0242-valid-anagram) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/angelawasthi76-crypto/leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0205-isomorphic-strings](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/angelawasthi76-crypto/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2540-minimum-common-value](https://github.com/angelawasthi76-crypto/leetcode/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
