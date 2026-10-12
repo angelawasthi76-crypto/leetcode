@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0050-powx-n) |
 | [0412-fizz-buzz](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/angelawasthi76-crypto/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
