@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0191-number-of-1-bits) |
 | [0912-sort-an-array](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0191-number-of-1-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/angelawasthi76-crypto/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Depth-First Search
 |  |
