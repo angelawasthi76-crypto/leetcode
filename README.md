@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0912-sort-an-array) |
 | [1089-duplicate-zeros](https://github.com/angelawasthi76-crypto/leetcode/tree/master/1089-duplicate-zeros) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/angelawasthi76-crypto/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/angelawasthi76-crypto/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2540-minimum-common-value](https://github.com/angelawasthi76-crypto/leetcode/tree/master/2540-minimum-common-value) |
 ## Two Pointers
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0050-powx-n) |
 | [0412-fizz-buzz](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0412-fizz-buzz) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/angelawasthi76-crypto/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/angelawasthi76-crypto/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1903-largest-odd-number-in-string](https://github.com/angelawasthi76-crypto/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/angelawasthi76-crypto/leetcode/tree/master/1922-count-good-numbers) |
