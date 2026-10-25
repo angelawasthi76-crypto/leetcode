@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0242-valid-anagram) |
 | [0905-sort-array-by-parity](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0912-sort-an-array) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0205-isomorphic-strings](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/angelawasthi76-crypto/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2540-minimum-common-value](https://github.com/angelawasthi76-crypto/leetcode/tree/master/2540-minimum-common-value) |
