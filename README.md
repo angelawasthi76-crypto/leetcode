@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0216-combination-sum-iii) |
+| [0485-max-consecutive-ones](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0905-sort-array-by-parity](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0905-sort-array-by-parity) |
