@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0090-subsets-ii) |
+| [0189-rotate-array](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/angelawasthi76-crypto/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/angelawasthi76-crypto/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
