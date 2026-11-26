@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/angelawasthi76-crypto/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/angelawasthi76-crypto/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/angelawasthi76-crypto/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -169,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/angelawasthi76-crypto/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2540-minimum-common-value](https://github.com/angelawasthi76-crypto/leetcode/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
@@ -177,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/angelawasthi76-crypto/leetcode/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/angelawasthi76-crypto/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Depth-First Search
 |  |
