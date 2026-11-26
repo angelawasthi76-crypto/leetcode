@@ -1,14 +1,9 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        
-        int[]hash= new int[nums.length+1];
-
+        int ans=nums.length;
         for(int i=0;i<nums.length;i++){
-            hash[nums[i]]++;
+            ans=ans^i^nums[i];
         }
-        for(int i=0;i<hash.length;i++){
-            if(hash[i]==0)return i;
-        }
-        return 0;
+        return ans;
     }
 }
